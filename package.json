@@ -1,0 +1,25 @@
+{
+    "name": "array-item-ttl",
+    "version": "1.0.0",
+    "description": "auto remove elements out of an array with timer",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "tap ./test/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ThisIsHermanCheng/array-item-ttl.git"
+    },
+    "keywords": [
+        "ttl",
+        "auto",
+        "remove",
+        "array"
+    ],
+    "author": "Herman Cheng",
+    "license": "MIT",
+    "devDependencies": {
+        "tap": "^16.3.3"
+    }
+}
