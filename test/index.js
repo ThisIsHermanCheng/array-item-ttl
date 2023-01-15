@@ -1,5 +1,5 @@
-import arrayItemTTL from '../index.js'
-import tap from 'tap'
+const arrayItemTTL = require('../index.js')
+const tap = require('tap')
 
 const delay = time => new Promise(res => setTimeout(res, time));
 

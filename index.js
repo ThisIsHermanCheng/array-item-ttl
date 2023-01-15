@@ -1,4 +1,4 @@
-export default class autoRemoveItemArr {
+class autoRemoveItemArr {
     timeouts = new Map(); // Store timeouts for each item in a map
     arr = []
     constructor(defaultTimeout = 5000) {
@@ -20,3 +20,5 @@ export default class autoRemoveItemArr {
         return this.arr;
     }
 }
+
+module.exports = autoRemoveItemArr

@@ -1,9 +1,8 @@
 {
     "name": "array-item-ttl",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "auto remove elements out of an array with timer",
     "main": "index.js",
-    "type": "module",
     "scripts": {
         "test": "tap ./test/"
     },
