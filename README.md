@@ -31,7 +31,7 @@ Output:
 []
 ```
 
-## Advaced Example
+## Advanced Example
 
 Setting a default time to life
 
